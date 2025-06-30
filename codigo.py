@@ -1,4 +1,4 @@
-nombre ="Lucas"
+nombre ="soy"
 aperllido = "Dalto"
 
 saludo = "hola "+nombre+" "+aperllido+" ¿Como estas?"
